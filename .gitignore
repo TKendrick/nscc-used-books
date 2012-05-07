@@ -8,3 +8,4 @@ TestResults
 # Visual Studio files with user preferences
 *.suo
 *.user
+nscc-used-books/nscc-used-books.csproj.user
