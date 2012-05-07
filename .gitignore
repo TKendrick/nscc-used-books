@@ -4,3 +4,7 @@ obj
 
 # mstest test results
 TestResults
+
+# Visual Studio files with user preferences
+*.suo
+*.user
